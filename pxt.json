@@ -1,6 +1,6 @@
 {
     "name": "MakerBit Robotics",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "The MakerBit connects to a wide variety of sensors, motors, and other components.",
     "license": "MIT",
     "dependencies": {
